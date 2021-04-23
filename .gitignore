@@ -1,5 +1,4 @@
 .*
-!.env
 !.dockerignore
 !.storybook
 !.circle
